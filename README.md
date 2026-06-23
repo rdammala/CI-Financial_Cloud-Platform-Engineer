@@ -10,7 +10,7 @@ Role-specific portfolio for Cloud Platform / DevOps Engineering opportunities.
 - Infrastructure as Code — Terraform, CloudFormation, Bicep
 - CI/CD & DevOps — Jenkins, Bitbucket, Spinnaker, CodeBuild, Artifactory
 - Large-scale cloud migration & hybrid-cloud integration
-- 12+ years · 100% SLA across 20+ services · 30-35% AI-automated incident resolution
+- 16+ years · 100% SLA across 20+ services · 30-35% AI-automated incident resolution
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · no frameworks · dark/light theme.
