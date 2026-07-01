@@ -2,7 +2,7 @@
 
 Role-specific portfolio for Cloud Platform / DevOps Engineering opportunities.
 
-**Live:** https://rdammala.github.io/CI-Financial_Cloud-Platform-Engineer/
+**Live:** https://rdammala-org.github.io/CI-Financial_Cloud-Platform-Engineer/
 
 ## Highlights
 - Cloud-native infrastructure at hyperscale (AWS preferred; Azure)
